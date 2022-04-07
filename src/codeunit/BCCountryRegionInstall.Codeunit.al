@@ -43,4 +43,4 @@ codeunit 50402 "BCCountry/Region-Install"
 //treca izmena
 //cetvta izmena
 //peta izmena
-//sesta izmena
+//sesta izmena koda
