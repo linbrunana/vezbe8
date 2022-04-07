@@ -37,3 +37,5 @@ codeunit 50402 "BCCountry/Region-Install"
         if not CountryRegionSetup.Insert() then;
     end;
 }
+
+//moja nova izmena
